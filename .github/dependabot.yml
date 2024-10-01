@@ -5,8 +5,8 @@
 
 version: 2
 updates:
-  - package-ecosystem: "npm" # Use 'npm' for Node.js projects
-    directory: "/" # Location of package manifests (root directory)
+  - package-ecosystem: 'npm' # Use 'npm' for Node.js projects
+    directory: '/' # Location of package manifests (root directory)
     schedule:
-      interval: "hourly" # Dependabot checks for updates every hour
+      interval: 'daily' # Dependabot checks for updates every hour
 
