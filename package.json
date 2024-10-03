@@ -14,7 +14,7 @@
     "@emotion/styled": "^11.13.0",
     "@mui/icons-material": "^5.15.11",
     "@mui/material": "^5.15.11",
-    "@mui/styles": "^5.15.11",
+    "@mui/styles": "^6.1.2",
     "crypto-js": "^4.2.0",
     "dom-to-image": "^2.6.0",
     "env-cmd": "^10.1.0",
